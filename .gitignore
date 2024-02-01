@@ -1,5 +1,6 @@
 admin/*
 prod/*
+mysql
 /mysql/*
 /data
 .idea
